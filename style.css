@@ -1,0 +1,60 @@
+body {
+	background-color: #131313;
+	font-family: 'Roboto', sans-serif;
+	color: #fff;
+	background-image: url('images/bg1.jpeg');
+	background-size: cover;
+}
+
+.header {
+	font-size: 4em;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 1in;
+	font-style: italic;
+	color: #000;
+}
+
+#header-text {
+	width: 100%;
+}
+
+#work-container {
+	margin-top: 3in;
+	width: 75%;
+	margin-left: 25%;
+}
+
+.work {
+	background-color: #303030;
+	padding: 12px;
+	width: 256px;
+}
+
+#work1 { float: left; }
+
+#logobox {
+	background-color: #303030;
+	/*width: 536px;
+	height: 128px;*/
+	display: inline-block;
+	padding: 12px;
+}
+
+#logoimage {
+	width: 536px;
+	height: 64px;
+	/*display: block;*/
+}
+
+.framebed {
+	background-color: #303030;
+	padding: 12px;
+	width: 560px;
+}
+
+.desc {
+	width: 560px;
+	padding: 12px;
+	background-color: #303030;
+}
